@@ -11,5 +11,8 @@ Contact Page: Easy-to-find contact information, including a contact form, phone 
 About Us Page: A section dedicated to telling the story of the restaurant and its mission.
 Modern Layout: Clean and modern design elements to enhance the user experience.
 Technologies Used
+
+
+
 HTML5: For the structure and content of the website.
 CSS3: For styling and layout, including flexbox and grid for responsive design.
